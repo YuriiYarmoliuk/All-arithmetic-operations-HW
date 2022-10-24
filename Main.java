@@ -1,4 +1,5 @@
 package com.cursor;
+
 public class Main {
     public static void main(String[] args) {
         byte a =  12 + 6;
