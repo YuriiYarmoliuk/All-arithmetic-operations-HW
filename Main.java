@@ -2,30 +2,25 @@ package com.cursor;
 
 public class Main {
     public static void main(String[] args) {
-
         byte a =  12 + 6;
         byte a1 = 12 - 6;
         byte a2 = 12 * 6;
         byte a3 = 12 / 6;
-
 
         short b = 9 + 9;
         short b1 = 9 - 9;
         short b2 = 9 * 9;
         short b3 = 9 / 9;
 
-
         long c = 45 + 9;
         long c1 = 45 - 9;
         long c2 = 45 * 9;
         long c3 = 45 / 9;
 
-
         double d = 24.5 + 7.7;
         double d1 = 24.5 - 7.7;
         double d2 = 24.5 * 7.7;
         double d3 = 24.5 / 7.7;
-
 
         float s = 15.3F + 4.15F;
         float s1 = 15.3F - 4.15F;
@@ -64,9 +59,5 @@ public class Main {
         System.out.println("float різниця = " + s1);
         System.out.println("float добуток = " + s2);
         System.out.println("float частка = " + s3);
-
-
-
-
     }
 }
